@@ -1,0 +1,89 @@
+
+
+/* Screens Resolution : 992px
+-------------------------------------------------------------------------- */
+@media only screen and (max-width: 1200px) {
+	/* ---------------------------------
+	COUNTER SECTION
+	--------------------------------- */
+
+	.counter-section{ text-align: center; padding: 50px 0 20px; }
+
+	.counter{ display: inline-block; }
+	
+	.counter .desc{ text-align: left; }
+}
+
+/* Screens Resolution : 992px
+-------------------------------------------------------------------------- */
+@media only screen and (max-width: 992px) {
+	
+	/* ---------------------------------
+	INTRO SECTION
+	--------------------------------- */
+
+	.intro-section{ padding-top: 250px; }
+	
+}
+
+/* Screens Resolution : 767px
+-------------------------------------------------------------------------- */
+@media only screen and (max-width: 767px) {
+	
+	/* ---------------------------------
+	PRIMARY STYLES
+	--------------------------------- */
+
+	p{ line-height: 1.4; }
+
+	h1{ font-size: 3em; }
+	h2{ font-size: 2em; }
+	h3{ font-size: 1.8em; }
+
+
+	
+	/* ---------------------------------
+	COMMONS FOR PAGE DESIGN
+	--------------------------------- */
+
+	.section{ padding: 50px 0 0px; }
+
+	.section .heading{ margin-bottom: 30px; }
+
+	
+	/* ---------------------------------
+	INTRO SECTION
+	--------------------------------- */
+
+	.intro-section{ padding-top: 350px; }
+
+
+}
+
+/* Screens Resolution : 575px
+-------------------------------------------------------------------------- */
+@media only screen and (max-width: 575px) {
+	
+	/* ---------------------------------
+	PRIMARY STYLES
+	--------------------------------- */
+
+	body{ font-size: 14px;  }
+	
+}
+
+
+/* Screens Resolution : 290px
+-------------------------------------------------------------------------- */
+@media only screen and (max-width: 260px) {
+	
+	
+	/* ---------------------------------
+	INTRO SECTION
+	--------------------------------- */
+
+	.intro .profile-img{ width: 80%; height: auto; top: 0; margin-bottom: 10px; }
+	
+	.intro{ padding: 20px 10px 0; margin-right: -15px; margin-left: -15px; }
+	
+}
